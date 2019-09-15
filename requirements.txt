@@ -3,6 +3,7 @@ Flask==1.1.1
 Flask-Caching==1.7.2
 flask-marshmallow==0.10.1
 flask-redis==0.4.0
+gunicorn==19.9.0
 itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
